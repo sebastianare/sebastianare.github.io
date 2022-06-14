@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.bg-p{
+background-color: #D50401;
+}
+a{
+    text-decoration: none;
+}
